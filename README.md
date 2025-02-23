@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e2f5fb&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Felipe+Poltronieri+!!)](https://git.io/typing-svg) 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e2f5fb&size=35&center=true&vCenter=true&width=1000&lines=Bem+Vindo(a)+👋) ](https://git.io/typing-svg) 
+## 👨🏼‍💻 Felipe Poltronieri
 
 
 <div align="center">  
