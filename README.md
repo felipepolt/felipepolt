@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0=15e5a6&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e2f5fb&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Felipe+Poltronieri+!!)](https://git.io/typing-svg) 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e2f5fb&size=35&center=true&vCenter=true&width=1000&lines=Bem+Vindo(a)+👋) ](https://git.io/typing-svg) 
@@ -53,5 +51,3 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{felipepolt}/count.svg" /></p> 
 <br></div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e6fffff&height=120&section=footer"/>
