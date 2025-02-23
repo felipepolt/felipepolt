@@ -1,12 +1,5 @@
 ## 👨🏼‍💻 Felipe Poltronieri
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipepolt&show_icons=true&count_private=true&hide_border=true&title_color=e2f5fb&icon_color=00bfbf&text_color=c9d1d9&bg_color=000" alt="felipepolt github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepolt&layout=compact&hide_border=true&title_color=e2f5fb&text_color=00bfbf&bg_color=000" />
-</div>
-
-<div align="center" color="e2f5f">
-
 ### Tecnologias que estou aprendendo:
 
 <div style="display: inline_block" align="center"><br/>
@@ -23,9 +16,15 @@
   <img align="center" alt="njs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
+<br></br>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipepolt&show_icons=true&count_private=true&hide_border=true&title_color=e2f5fb&icon_color=00bfbf&text_color=c9d1d9&bg_color=000" alt="felipepolt github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepolt&layout=compact&hide_border=true&title_color=e2f5fb&text_color=00bfbf&bg_color=000" />
 </div>
 <br></br>
+<div align="center" color="e2f5f">
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=felipepolt&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
