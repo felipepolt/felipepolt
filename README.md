@@ -1,15 +1,5 @@
 ## 👨🏼‍💻 Felipe Poltronieri
 
-
-<div align="center">  
-<a href="https://www.linkedin.com/in/felipepoltronieri/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://www.behance.net/felipepoltron" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"</a>
-</div> 
-<div align="center">  
-<a href="https://www.instagram.com/poltporai/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipepolt&show_icons=true&count_private=true&hide_border=true&title_color=e2f5fb&icon_color=00bfbf&text_color=c9d1d9&bg_color=000" alt="felipepolt github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepolt&layout=compact&hide_border=true&title_color=e2f5fb&text_color=00bfbf&bg_color=000" />
