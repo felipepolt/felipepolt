@@ -30,8 +30,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=felipepolt&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipepolt&bg_color=000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <br></br>
 
 <div align="center">
