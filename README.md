@@ -48,11 +48,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipepolt&bg_color=000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br></br>
- 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{felipepolt}/count.svg" /></p> 
-<br></div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e6fffff&height=120&section=footer"/>
