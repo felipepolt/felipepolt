@@ -20,3 +20,6 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
+<br></br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipepolt)](https://github.com/anuraghazra/github-readme-stats)
