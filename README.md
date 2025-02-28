@@ -22,8 +22,8 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipepolt&show_icons=true&count_private=true&hide_border=true&title_color=e2f5fb&icon_color=00bfbf&text_color=c9d1d9&bg_color=000" alt="felipepolt github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepolt&layout=compact&hide_border=true&title_color=e2f5fb&text_color=00bfbf&bg_color=000" />
 </div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?felipepolt=anuraghazra&layout=compact)
 
 
 <br></br>
