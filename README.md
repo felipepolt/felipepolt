@@ -1,7 +1,5 @@
 ## 👨🏼‍💻 Felipe Poltronieri
 
-### Cursando Análise e Desenvolvimento de Sistemas.
-
 ### 💻 Tecnologias que estou aprendendo:
 
 <div style="display: inline_block" align="center"><br/>
