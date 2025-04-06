@@ -1,4 +1,4 @@
-## 👨🏼‍💻 Felipe Poltronieri
+## 👨🏼‍💻 Felipe Poltronieri Pinto
 
 ### 💻 Tecnologias que estou aprendendo:
 
